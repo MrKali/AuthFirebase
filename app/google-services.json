@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735377570526",
+    "firebase_url": "https://authfirebase-d7ec5.firebaseio.com",
+    "project_id": "authfirebase-d7ec5",
+    "storage_bucket": "authfirebase-d7ec5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735377570526:android:b9411d27421d1099",
+        "android_client_info": {
+          "package_name": "com.varela.authfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735377570526-rntta11uq35otguvhgpu6hvq97aj331l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQB3tBH3dYAi3-ImXthr_Yf54oL2muXiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735377570526-rntta11uq35otguvhgpu6hvq97aj331l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
